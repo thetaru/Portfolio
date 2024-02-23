@@ -17,6 +17,7 @@
 | 2024/1/19  | AWS Certified Database - Specialty               |
 | 2024/1/28  | AWS Certified Data Analytics - Specialty         |
 | 2024/2/18  | AWS Certified Machine Learning - Specialty       |
+| 2024/2/23  | AWS Certified: SAP on AWS – Specialty            |
 
 ### Google Cloud
 
