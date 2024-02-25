@@ -27,6 +27,13 @@
 | 2023/7/22 | Google Cloud Certified - Professional Cloud Architect |
 | 2023/9/2  | Google Cloud Certified - Professional Data Engineer   |
 
+### Linux Professional Institute(LPI)
+
+|  取得日   | 資格名                                                |
+| :-------: | :---------------------------------------------------- |
+| 2019/8/25 | 101-500: LPIC-1 - Exam 101 (part 1 of 2), version 5.0 |
+| 2024/2/25 | 102-500: LPIC-1 - Exam 102 (part 2 of 2), version 5.0 |
+
 ### Microsoft
 
 |  取得日   | 資格名                                                |
