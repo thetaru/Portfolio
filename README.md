@@ -27,6 +27,12 @@
 | 2023/7/22 | Google Cloud Certified - Professional Cloud Architect |
 | 2023/9/2  | Google Cloud Certified - Professional Data Engineer   |
 
+### HashiCorp
+
+|  取得日   | 資格名                                                |
+| :-------: | :---------------------------------------------------- |
+| 2024/6/13 | Terraform Associate Certification (003)               |
+
 ### Linux Professional Institute(LPI)
 
 |  取得日   | 資格名                                                |
